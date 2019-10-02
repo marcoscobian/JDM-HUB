@@ -1,0 +1,102 @@
+ 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nissan Stats</title>
+
+<link href="https://fonts.googleapis.com/css?family=Vidaloka&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Amaranth|Vidaloka&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Adamina|Amaranth|Vidaloka&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<style>
+#top {
+font-family:Vidaloka;
+
+}
+#yeet {
+ 	font-family:Amaranth;
+ }
+
+#yote {
+	font-family:Adamina;
+    	}
+        
+        #gtr-r35-text {
+	font-family:Adamina;
+    	}
+        
+        #gtr-r35 {
+        	font-family:Amaranth;
+            	}
+
+</style>
+
+<h1 id="top">Nissan Stats</h1>
+
+ <img src="https://www.carid.com/images/inspiration/nissan/370z/57/1.jpg"width=350px>
+ 
+ <img id="370z" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9N2dEDeZ8gX4K10oaeYp4XNaoMbi6AtIRFR9Zu8a2OgutbRGu"width=235px>
+ 
+ <p id="yeet">Nissan 370z</p>
+ 
+
+
+
+<p id="yote">MSRP: From $30,090---Horsepower: 332 to 350 hp---MPG: Up to 19 city / 26 highway---Curb weight: 3,333 to 3,525 lbs---Fuel tank capacity: 19 gal</p>
+
+
+
+<img src="https://cdn.shopify.com/s/files/1/1705/8047/products/Snip20180330_69_1024x1024.png?v=1524216761"width=350px>
+
+<img src="http://cdn.shopify.com/s/files/1/1710/1473/products/DSC07187_1024x1024.jpg?v=1535160737"width=350px>
+
+
+<p id="gtr-r35">Nissan GTR R35</p>
+
+<p id="gtr-r35-text">Engine type	V6, Twin Turbo---Displacement 3.8 l (232 ci)---Power 492 ps (485 bhp / 362 kw)---Torque	588 Nm (434 lb-ft)---Power/liter 130 ps (128 hp)---Transmission	6---Layout front engine, all wheel drive
+</p>
+
+
+<img src="http://eskipaper.com/images/modified-nissan-300zx-1.jpg"width=350>
+
+<img src="https://images5.alphacoders.com/366/366936.jpg"width=350px>
+
+
+
+
+
+<p id="yeet">Nissan 300zx</p>
+
+
+<p id="yote">Engine type	Tubocharged V6 with a Displacement	of 3.0 l (183 ci)--Power 300 ps (296 bhp / 221 kw)---
+Power / liter	100 ps (99 hp)---
+Transmission	5 Speed Manual---
+Layout	front engine,--- rear wheel drive.</p>
+
+
+<img src="https://the-drive-2.imgix.net/https%3A%2F%2Fapi.thedrive.com%2Fwp-content%2Fuploads%2F2017%2F04%2Fd5db501f-5b0b-4e93-bfdd-d954edefe143-large.jpg%3Fquality%3D85?w=1440&auto=compress%2Cformat&ixlib=js-1.4.1&s=edc812b5335746e8f84820de65aa1fe3"width=350px>
+
+<img src="https://prestigemotorsport.com.au/wp-content/uploads/2015/11/pic0005.jpg"width=299px>
+
+<p id="yeet">Nissan Skyline R34</p>
+
+<p id="yote">Engine type	Inline 6, Twin Turbo,---- 24v
+Displacement 2.6 l (159 ci)----
+Power	280 ps (276 bhp / 206 kw)----
+Torque	400 Nm (295 lb-ft)----
+Power / liter	108 ps (106 hp)----
+Transmission 6
+Layout	front engine,----all wheel drive</p>
+
+
+
+
+
+
+</body>
+</html>
